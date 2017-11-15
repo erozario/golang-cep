@@ -1,4 +1,5 @@
-# golang-cep
+# golang-cep]
+[![Go Report Card](https://goreportcard.com/badge/erozario/golang-cep)](https://goreportcard.com/report/erozario/golang-cep)
 [![Docker Build Status](https://img.shields.io/docker/build/eduardoagrj/golang-cep.svg)](https://hub.docker.com/r/eduardoagrj/golang-cep/builds/)
 
 Dockerized API for address search based on the informed CEP
